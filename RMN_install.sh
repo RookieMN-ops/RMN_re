@@ -3,11 +3,11 @@
 
 # staging
 echo [*] Staging process...
-mkdir ~/.MK01-RMN
+mkdir ~/.RMN_re
 cd ..
-mv MK01-RMN/* ~/.MK01-RMN
-rm -rf MK01-RMN
-cd ~/.MK01-RMN
+mv RMN_re/* ~/.RMN_re
+rm -rf RMN_re
+cd ~/.RMN_re
 echo [+] Completed
 
 #  get tools
